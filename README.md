@@ -6,7 +6,7 @@
 
 Hi there! 🌟
 
-I am a 17 year old student from Moldova who has recently started to get into programming. In my Github I share my projects, ideas and materials that I learn as I study. 💡🔧
+I am a 17 year old student from Moldova who has recently started programming. In my Github I share my projects, ideas and materials that I learn as I study. 💡🔧
 
 Every day I try to improve my skills, dreaming to become a real programmer. 🚀💻
 
